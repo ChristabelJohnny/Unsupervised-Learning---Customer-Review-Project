@@ -95,7 +95,7 @@ The dataset consists of customer reviews with a focus on:
 
 ---
 
-## 🌐 Live App
+## Live App
 
 You can interact with the deployed app here:  
 [Customer Reviews Streamlit App](http://localhost:8501/)
@@ -121,6 +121,6 @@ This project demonstrates how unsupervised learning and sentiment analysis can b
 
 For collaboration, questions, or feedback:
 
-- **GitHub**: [@yourusername](https://github.com/ChristabelJohnny)
+- **GitHub**: [@ChristabelJohnny](https://github.com/ChristabelJohnny)
 - **LinkedIn**: [Christabel Johnny](https://www.linkedin.com/in/christabeljohnny)
 - **Deployed App**: [Customer_Reviews](http://localhost:8501/)
